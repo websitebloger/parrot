@@ -1,0 +1,265 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width" />
+      <title>Perfect Body Shape</title>
+      <link rel="stylesheet" href="css/components.css">
+      <link rel="stylesheet" href="css/responsee.css">
+      <link rel="stylesheet" href="owl-carousel/owl.carousel.css">
+      <link rel="stylesheet" href="owl-carousel/owl.theme.css">
+      <!-- CUSTOM STYLE -->
+      <link rel="stylesheet" href="css/template-style.css">
+      <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+      <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+      <script type="text/javascript" src="js/jquery-ui.min.js"></script>    
+      <script type="text/javascript" src="js/modernizr.js"></script>
+      <script type="text/javascript" src="js/responsee.js"></script>
+      <script type="text/javascript" src="js/template-scripts.js"></script> 
+                 
+      <!--[if lt IE 9]>
+	      <script src="http://html5shiv.googlecode.c8:26 AM 3/9/2017om/svn/trunk/html5.js"></script>
+        <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+      <![endif]-->
+   </head>
+   <body class="size-1140">
+      <!-- TOP NAV WITH LOGO -->
+      <header>
+
+         <nav>
+            <div class="line">
+               <div class="s-12 l-2">
+                  <p class="logo"><strong><img src="img/logo.png" alt="">
+               </div>
+               <div class="top-nav s-12 l-10">
+                  <p class="nav-text">Custom menu text</p>
+                  <ul class="right">
+                     <li class="active-item"><a href="#carousel">Home</a></li>
+                     <li><a href="#features">Featured Blog</a></li>
+                     <li><a href="#about-us">About Us</a></li>
+                     <li><a href="#contact">Contact</a></li>
+                  </ul>
+               </div>
+            </div>
+         </nav>
+      </header>  
+      <section>
+         <!-- CAROUSEL --> 
+         <div id="carousel">
+            <div id="owl-demo" class="owl-carousel owl-theme"> 
+               <div class="item">
+                  <img src="img/first.jpg" alt="">
+
+               </div>
+               <div class="item">
+                  <img src="img/second.jpg" alt="">
+
+               </div>
+               <div class="item">
+                  <img src="img/third.jpg" alt="">
+ 
+               </div>
+            </div>
+         </div>
+         <!-- FIRST BLOCK -->
+         <div id="first-block">
+            <div class="line">
+               <h1>Featured Blog of the Month</h1>
+               <p></p>
+
+            </div>
+         </div>
+         <!-- FEATURES -->
+         <div id="features">
+            <div class="line">
+
+			<center><h1>How to Choose a Spa Treatment</h1></center>
+<br>
+			<img src="img/1.jpg" alt="Img" height="342" width="368">
+			<div>
+<br>There are so many different kinds of spa treatments most people are completely unaware of. They have treated everything from allergies to back pain, headaches to insomnia. Most people go to simply unwind and relax.
+<br>
+<br>
+<br>This is a basic guide to the more popular spa treatment services afforded to you at either a popular resort, wellness clinic or day spa. Here you will find basic advice on how to choose a spa treatment that is right for you!
+<br>
+<br>Steps
+<br>
+<br>
+<br>1. Know your desired outcome. Knowing the goal of the spa treatment helps. In other words, are you seeking a spa treatment for relaxation and to rid unwanted stress? Or perhaps to gain more energy? Many go for the outcome of clearer skin, such as in getting facials. These two goals may require different services therefore know beforehand so you can communicate this with your spa therapist.
+<br>
+<br>
+<br>2. Have Meaningful communications with your spa therapist. As stated in step 1 communicate the ultimate goal outcome with your therapist. It is helpful to communicate any discomforts you may have and problem areas that you want special attention focused on. This also includes the amount of pressure applied to a massage. Most Swedish Massage is fairly light. If seeking "deep tissue massage" than you'll have to communicate the right amount of pressure with your therapist.
+<br>
+<br>
+<br>3. Know what to expect. Top Spa Treatments are:
+<br>
+<br>•	Massage: This can include Swedish Massage and Deep Tissue and everything in between. This is done with an assortment of oils for different effects. In addition aromatherapy is often combined with good spa treatments. Many resorts will have their own "signature" massages.
+<br>•	Hot Stone Therapy: The use of hot stones for massage and acupressure has become a staple on nearly every spa menu throughout the world.
+<br>•	Facials: This can be as non-invasive as through gentle cleansers and massage, or through botox. There are as many variations of facials as there are massage.
+<br>•	Body Wraps: Most Body Wraps include herbal remedies such as with clay, mud or even seaweed and paraffin. The ideas is to cleanse the skin and weight reduction.
+<br>•	Salt Scrubs and Glows: This is a remedy that is used for deep exfoliation of dried or dead skin cells. It is primarily done through brushing of salts on the body [often from the Dead Sea for their super high mineral content], or through certain herbal scrub remedies such as with almonds or walnut paste.
+<br>•	Acupuncture/Acupressure: These remedies have been proven to alleviate all sorts of maladies and disorders, not just of the skin.
+<br>•	Colonics, also known as Colonic Irrigation : Though this may not seem the most pleasant and perhaps is not, it is however one of the more effective methods for removing toxins from the human body. Usually performed in a series of 6 or more sessions. High on the list at most Wellness Clinics and Medical Tourism destinations.
+<br>•	Ayurveda: Using a holistic philosophy dating around 5,000 years ago, it uses natural remedies and time-tested practices. Ayurveda has become a recognized treatment option for medical issues, as well as a relaxing spa favorite.
+<br>•	Aromatherapy: The basic term refers to the therapeutic use of essential oils—based on the specific healing property of each oil—in such treatments as massage, diffusions, body wraps and soaks.
+<br>•	Paraffin: Paraffin is a a soft, liquid wax—plain, or juiced-up with essential oils.Because of its heat-conducting and moisture-retaining properties, the ingredient is most commonly used to hydrate, soften and relax dry skin, or prep hands and feet pre-mani or pedicure. The result is soft, moisturized skin devoid of cracks or dry patches.
+<br>•	Reiki: Reiki is a Japanese technique for healing and stress relief based on the movement of energy—and the practice is steadily growing in popularity in US spas.
+<br>•	Shiatsu: It’s on pretty much every massage menu, right there between Hot Stone and Swedish Massage. At its core, the technique emphasizes a combination of diagnosis and therapy. Using just their palms and fingers—in particular the thumb—trained practitioners are able to identify trouble spots on the client, including blocked toxins and muscle distress.
+<br>
+<br>
+<br>4.	Research various spas and the spa treatments they offer: This takes a little work, and there is no perfect method to do this. Most day spas, wellness clinics and resort spas carry great spa treatment menu options to satisfy even the most seasoned spa goer. If you need a special treatment call the spas directly.
+<br>
+<br>
+<br>Tips
+<br>
+<br>•	Wear appropriate soft loose clothing for your spa treatments. This helps in relaxing after the treatment!
+<br>•	Show up to your appointment early: It is recommended to use the jacuzzi or hot tubs in advance in order to raise body temperature and relax the muscles prior to the service.
+<br>•	Gratuities are important! Most spa treatment specialists count on between a 20-25% tip of the total spa bill. Remember, you may just get this same spa therapist the next time around as well.
+<br>•	Drink plenty of fluids, especially directly after your spa treatments as they can help hydrate you and flush unwanted toxins from you body.
+<br>•	Book your spa treatment early, many of the better spas usually stay booked a week in advance, some even up to two weeks in advance
+<br>
+<br>
+<br>Warnings
+<br>
+•	If you have any allergies to certain oils, skin creams or herbal preparations let your therapist know. Though rare, some people have been known to break out with rash due to aloe vera, a common cactus used in skin remedies.
+•	Try not to eat a full meal prior to your spa treatment,lest you feel bloated. Most spas serve an assortment of herbal teas and fresh fruits.
+•	If you had any recent surgeries whereas a special area of your body that should be left alone, remember it is your job to notify the therapist, they are not mind-readers. Any broken bones in the past or fractures should be disclosed at the beginning of your spa treatment.
+•	Certain herbal body wraps whereas they tightly wrap you in plastic in order to raise body heat can cause a claustrophobia condition in certain patients. If you are known to experience this in closed up conditions, make your therapist aware to check up on you frequently. In addition they can wrap you so that you can easily open it up yourself if need be.
+<br>
+<br>
+<br>
+<font size=1>Credits to : wikihow </font>
+
+
+
+
+               </div>
+            </div>
+         </div>
+         <!-- ABOUT US -->
+         <div id="about-us">
+            <div class="s-12 m-12 l-6 media-container">
+               <img src="img/about.jpg" alt="">
+            </div>
+            <article class="s-12 m-12 l-6">
+               <h2>About Us<br> </h2>
+               <p>
+While you can't change your genes, you can make the most of what you were born with by training for your shape. Perfect Body Shape regularly sharing you information on specific workouts for women to help you work with, not against, your body for faster results.
+</p>
+ <p>We are an online health, fitness and nutrition buddy. If you are looking for fitness, salon care, health and nutrition information, your search stops here.
+               </p>
+<br>
+     <p>We have a terrific and helpful information for your total wellness which also includes timely recipes and all about health consciousness. Healthy day? Our recipes, fitness tutorials and total wellness guide are just in your fingertips. When you want to know some updated information and recent research about health and total wellbeing, WDFA is here for you.
+               </p>
+<br>
+     <p>One of the great things at Perfect Body Shape is very educational and our featured blogs are said to be easy to learn and follow yet the result is amazing. Our staffs reall appreciate your inquiries and requests. Our goal is to ensure that every one will reach their fitness, nutrition and aesthetic goals, whatever they may be.
+
+               </p>
+               <div class="about-us-icons">
+                  <i class="icon-paperplane_ico"></i> <i class="icon-trophy"></i> <i class="icon-clock"></i>
+               </div>
+            </article>
+         </div>
+
+
+         <div id="topbar">
+            <div class="line">
+               <div class="s-12 m-6 l-6">
+                  <p>CONTACT US: <strong>(510) 238-3672</strong> | <strong>contact@perfectbodyshape.com</strong></p>
+               </div>
+               <div class="s-12 m-6 l-6">
+                  <div class="social right">
+                     <a><i class="icon-facebook_circle"></i></a> <a><i class="icon-twitter_circle"></i></a> <a><i class="icon-google_plus_circle"></i></a> <a><i class="icon-instagram_circle"></i></a>
+                  </div>
+               </div>
+            </div>  
+         </div> 
+
+
+
+         <!-- CONTACT -->
+         <div id="contact">
+            <div class="line">
+               <h2 class="section-title">Contact Us</h2>
+               <div class="margin">
+                  <div class="s-12 m-12 l-3 hide-m hide-s margin-bottom right-align">
+                    <img src="img/contact.png" alt="">
+                  </div>
+                  <div class="s-12 m-12 l-4 margin-bottom right-align">
+                     <h3>Perfect Body Shape</h3>
+                     <address>
+                        <p><strong>Adress:</strong> 17th St, Oakland, </p>
+                        <p><strong>Country:</strong> CA 94612, USA</p>
+                        <p><strong>E-mail:</strong> info@perfectbodyshape.com</p>
+                     </address>
+                     <br />
+                     <h3>Social</h3>
+                     <p><i class="icon-facebook icon"></i> <a href="https://www.perfectbodyshape.com">Perfect Body Shape</a></p>
+                     <p><i class="icon-facebook icon"></i> <a href="https://www.perfectbodyshape.com">perfectbodyshape</a></p>
+                     <p class="margin-bottom"><i class="icon-twitter icon"></i> <a href="https://www.perfectbodyshape.com">perfectbodyshape</a></p>
+                  </div>
+                  <div class="s-12 m-12 l-5">
+                    <h3>Contact Form</h3>
+                    <form class="customform" action="">
+                      <div class="s-12"><input name="" placeholder="Your e-mail" title="Your e-mail" type="text" /></div>
+                      <div class="s-12"><input name="" placeholder="Your name" title="Your name" type="text" /></div>
+                      <div class="s-12"><textarea placeholder="Your message" name="" rows="5"></textarea></div>
+                      <div class="s-12 m-12 l-4"><button class="color-btn" type="submit">Submit Button</button></div>
+                    </form>
+                  </div>                
+               </div>
+            </div>
+         </div>
+         <!-- MAP -->
+         <div id="map-block">  	  
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1247814.3661917313!2d16.569872019090596!3d48.23131953825178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476c8cbf758ecb9f%3A0xddeb1d26bce5eccf!2sGallayova+2150%2F19%2C+841+02+D%C3%BAbravka!5e0!3m2!1ssk!2ssk!4v1440344568394" width="100%" height="450" frameborder="0" style="border:0"></iframe>
+         </div>
+      </section>
+      <!-- FOOTER -->
+      <footer>
+         <div class="line">
+            <div class="s-12 l-6">
+               <p>Copyright 2017. Perfect Body Shape. All rights reserved.</p>
+               <p></p>
+            </div>
+            <div class="s-12 l-6">
+               <a class="right" href="http://www.perfectbodyshape.com" title="">Design and developed<br> by Perfec Body Shape</a>
+            </div>
+         </div>
+      </footer>
+      <script type="text/javascript" src="owl-carousel/owl.carousel.js"></script>
+      <script type="text/javascript">
+         jQuery(document).ready(function($) {
+            var theme_slider = $("#owl-demo");
+            $("#owl-demo").owlCarousel({
+                navigation: false,
+                slideSpeed: 300,
+                paginationSpeed: 400,
+                autoPlay: 6000,
+                addClassActive: true,
+             // transitionStyle: "fade",
+                singleItem: true
+            });
+            $("#owl-demo2").owlCarousel({
+                slideSpeed: 300,
+                autoPlay: true,
+                navigation: true,
+                navigationText: ["&#xf007","&#xf006"],
+                pagination: false,
+                singleItem: true
+            });
+        
+            // Custom Navigation Events
+            $(".next-arrow").click(function() {
+                theme_slider.trigger('owl.next');
+            })
+            $(".prev-arrow").click(function() {
+                theme_slider.trigger('owl.prev');
+            })     
+        }); 
+      </script>
+   </body>
+</html>
